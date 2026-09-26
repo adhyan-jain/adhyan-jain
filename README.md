@@ -32,7 +32,7 @@
 
 <p align="center">
 
-**languages**
+![languages](https://img.shields.io/badge/-%E2%80%A2%20languages-a855f7?style=flat-square&labelColor=0d1117&color=0d1117)
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a855f7)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=a855f7)
@@ -40,20 +40,20 @@
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=a855f7)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=a855f7)
 
-**ai / ml**
+![ai/ml](https://img.shields.io/badge/-%E2%80%A2%20ai%20%2F%20ml-a855f7?style=flat-square&labelColor=0d1117&color=0d1117)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=a855f7)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=a855f7)
 ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=a855f7)
 
-**web / infra**
+![web/infra](https://img.shields.io/badge/-%E2%80%A2%20web%20%2F%20infra-a855f7?style=flat-square&labelColor=0d1117&color=0d1117)
 
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=a855f7)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=a855f7)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=a855f7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=a855f7)
 
-**environment**
+![environment](https://img.shields.io/badge/-%E2%80%A2%20environment-a855f7?style=flat-square&labelColor=0d1117&color=0d1117)
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=arch-linux&logoColor=a855f7)
 ![Hyprland](https://img.shields.io/badge/Hyprland-0d1117?style=for-the-badge&logo=wayland&logoColor=a855f7)
