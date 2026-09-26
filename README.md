@@ -73,20 +73,36 @@
 
 ### featured
 
-<p align="center">
-  <a href="https://github.com/adhyan-jain/Verity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhyan-jain&repo=Verity&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd"/>
-  </a>
-  <a href="https://github.com/adhyan-jain/OS-Tutor-RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhyan-jain&repo=OS-Tutor-RAG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd"/>
-  </a>
-  <a href="https://github.com/adhyan-jain/llm-cascade-gateway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhyan-jain&repo=llm-cascade-gateway&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd"/>
-  </a>
-  <a href="https://github.com/adhyan-jain/Shadow-Code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhyan-jain&repo=Shadow-Code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/adhyan-jain/Verity">
+        <b>🔍 Verity</b><br/>
+        <sub>verification & reasoning system</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/adhyan-jain/OS-Tutor-RAG">
+        <b>🤖 OS-Tutor-RAG</b><br/>
+        <sub>RAG-powered OS learning assistant</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/adhyan-jain/llm-cascade-gateway">
+        <b>⚡ llm-cascade-gateway</b><br/>
+        <sub>LLM routing & cascade gateway</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/adhyan-jain/Shadow-Code">
+        <b>🏗️ Shadow-Code</b><br/>
+        <sub>risk-aware legacy code modernization</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
