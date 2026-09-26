@@ -8,8 +8,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhyan-jain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd&langs_count=8" width="42%"/>
-
 ### about me
 
 - building AI-powered tools and systems
@@ -25,8 +23,7 @@
 ### stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adhyan-jain&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&dates=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhyan-jain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd&langs_count=6" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=adhyan-jain&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&dates=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff"/>
 </p>
 
 ---
