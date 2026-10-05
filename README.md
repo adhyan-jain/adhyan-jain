@@ -12,7 +12,7 @@
 
 - building AI-powered tools and systems
 - arch linux + hyprland daily driver
-- currently working on **Verity**, **OS-Tutor-RAG**, **lab-tutor**
+- currently exploring **local LLMs**, **RAG pipelines**, and **systems programming in Rust & Go**
 - neovim + lazygit + ghostty for everything
 - probably has too many terminal emulators
 
